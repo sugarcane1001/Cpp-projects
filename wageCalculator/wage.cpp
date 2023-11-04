@@ -1,3 +1,7 @@
+/*
+Given input from the user, this program calculates gross pay, amount of deductions, and net pay based on hours worked and hourly wage.
+*/
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
